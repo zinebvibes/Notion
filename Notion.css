@@ -1,0 +1,42 @@
+p {
+         
+         font-weight: bold;
+}
+ .x {color: black ;
+   font-size: 30px; }
+   
+ .y{
+   color: rgb(10, 100 , 15)  ;
+   font-size: 24px;
+   padding-left: 10px;
+ }
+
+ .z{
+   color: rgb(10, 100 , 150)  ;
+   font-size: 24px;
+   padding-left: 10px;
+   }
+
+div ul {
+   padding-left: 30px;
+  list-style-type: disc ;
+  
+}
+
+div ul li {
+  line-height: 30px;
+  font-size: 18px;
+}
+
+.yg {
+  display: block;
+  background-color: #e5a082;
+  background-image: url(" c24670a125b6bdf3a6d0be7abe58da42..jpg  ");
+  border: solid ;
+  border-color: black;
+  border-width: 3px;
+  background-size: contain;
+}
+.yg p{
+  margin: 425px;
+}
